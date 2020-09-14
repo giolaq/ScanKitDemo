@@ -6,7 +6,7 @@ with a custom view
 ## Important bits
 
 
-In the [DefinedActivity.kt](https://github.com/joaobiriba/QuickFaceAnalyzer/blob/master/app/src/main/java/com/huawei/customizedviewscankitdemo/DefinedActivity.kt) 
+In the [DefinedActivity.kt](https://github.com/joaobiriba/ScanKitDemo/blob/master/app/src/main/java/com/huawei/customizedviewscankitdemo/DefinedActivity.kt) 
 there is all the magic to perform a code scan with a custom view
 
 just build a RemoteView with the bounding box set up as you want.
